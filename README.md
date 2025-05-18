@@ -8,7 +8,6 @@ This repository contains various utility functions and tools that can be used ac
 
 ## Getting Started
 
-More details about how to use these utilities will be added as the repository grows.
 
 ## License
 
